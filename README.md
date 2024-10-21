@@ -1,5 +1,5 @@
 # funcnet
-Data and code of the paper: "Punctuated ecological equilibrium in mammal communities over evolutionary time scales" 
+Punctuated ecological equilibrium in mammal communities over evolutionary time scales
 
 
 The study of deep-time ecological dynamics has the ability to inform conservation decisions by
